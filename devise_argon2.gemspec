@@ -17,5 +17,5 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency 'devise', '>= 2.1.0'
   gem.add_dependency 'devise-encryptable', '>= 0.2.0'
-  gem.add_dependency 'sorcery-argon2', '~> 1.1'
+  gem.add_dependency 'argon2', '~> 2.1'
 end
